@@ -1,0 +1,24 @@
+{
+ "name": "server",
+ "version": "1.0.0",
+ "description": "javascripting",
+ "main": "main.js",
+ "scripts": {
+ "test": "echo "Error: no test specified" && exit 1"
+ },
+ "repository": {
+ "type": "git",
+ "url": "week5"
+ },
+ "keywords": [
+ "server"
+ ],
+ "author": "joe",
+ "license": "ISC",
+ "devDependencies": {
+ "jasmine": "^2.6.0"
+ },
+ "dependencies": {
+ "jasmine": "^2.6.0"
+ }
+ }
